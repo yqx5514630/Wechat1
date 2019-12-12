@@ -6,4 +6,4 @@
  * Time: 0:54
  */
 
-echo 'test , git ';
+echo 'test , git , today';
